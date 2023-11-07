@@ -19,18 +19,18 @@ small_std_2= students_2 - (std_group_2 * 24)
 small_std_3= students_3 - (std_group_3 * 24)
 
 
-print('For 113 studnets:  ')
+print('For 113 students :  ')
 print(f'Full Groups: {std_group_1} ')
 print(f'Smaller Group students: {small_std_1} ')
 print('')
 
-print('For 175 studnets:  ')
+print('For 175 students :  ')
 print(f'Full Groups: {std_group_2} ')
 print(f'Smaller Group students: {small_std_2} ')
 print('')
 
 
-print('For 12 studnets:  ')
+print('For 12 students :  ')
 print(f'Full Groups: {std_group_3} ')
 print(f'Smaller Group students: {small_std_3} ')
 print('')
